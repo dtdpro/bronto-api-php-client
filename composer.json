@@ -1,5 +1,5 @@
 {
-    "name"             : "bronto/bronto-api-php-client",
+    "name"             : "dtdpro/bronto-api-php-client",
     "type"             : "library",
     "description"      : "Client Library for PHP",
     "keywords"         : ["bronto"],
